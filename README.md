@@ -14,7 +14,14 @@ It was created for the SEEED XIAO keyboard contest.\
 
 ## TOTEM+1 (Companion Totem)
 Totem+1 is a modified version of TOTEM by GEIGEIGEIST. It has additional one key on inner index column of each side (total 40 keys). This is because typing in Korean needs the "B" key on the right hand side. So I added additional B key on the right. And to make this keyboard symmetrical, I added it on the left side too. 
-The inner thumb keys have been replaced to EVQWGD001 roller encoders. Thought this will be handy for navigating cursor while typing.
+
+The inner thumb keys have been replaced to [EVQWGD001 roller encoders](https://a.aliexpress.com/_c3mfh3fF). Thought this will be handy for navigating cursor while typing. These are very expensive now(25$ for 1) but luckily I got it for 5$ each few years ago. \
+I also found some alternatives that you can consider. But you may need to edit the PCB since the footprint will be different.\
+https://github.com/kumamuk-git/CKW12 \
+https://github.com/Taro-Hayashi/THQWGD001 \
+https://github.com/EverydayErgo/MEH01 
+
+For the batteries, I used this [305060 1100mAh battery](https://a.aliexpress.com/_c3kIPq6d) since I wanted long battery life. 
 
 
 ***
